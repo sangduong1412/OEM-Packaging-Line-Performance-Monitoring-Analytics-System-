@@ -1,7 +1,7 @@
 
 /*
  * PROJECT: Industrial Production Line Monitor with Dashboard Status
- * AUTHOR: [Your Name Here]
+ * AUTHOR: Sang Hoang Duong
  * DATE: July 2025
  *
  * DESCRIPTION:
